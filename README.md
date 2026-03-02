@@ -1,4 +1,4 @@
-# Vision Beats 🥁
+# Vision Beats
 
 **Vision Beats** is a virtual percussion studio built with **SwiftUI** and **AVFoundation**. By leveraging real-time camera tracking, the app transforms natural hand gestures into a responsive musical experience, allowing users to "air-drum" with studio type quality audio samples.
 
